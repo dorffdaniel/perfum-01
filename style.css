@@ -50,6 +50,7 @@ main{
     background: #f3f8f2;
     padding-left: 20px;
     border-radius: 0px 7px 7px 0px;
+    transition: all ease 1s;
 } 
 
 .sobre h1{
@@ -92,7 +93,8 @@ main{
 
 .btn{
     background: #158f60;
-    width: 200px;
+    width: auto;
+    padding: 0 1em;
     height: 40px;
     text-align: center;
     font-size: 22px;
@@ -110,4 +112,15 @@ main{
     font-size: 24px;
 }
 
+.opacidade{
+    background: #b3b3b3;
+    transition: all ease 1s;
+}
+
+.bx{
+    transition: all ease-in-out 0.3s;
+    color: #fff;
+    padding-left: 0.3em;
+    opacity: 0;
+}
 
