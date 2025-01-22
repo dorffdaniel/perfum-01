@@ -4,3 +4,4 @@
 ## Tecnologias Usada
 - HTML
 - CSS
+- JS
