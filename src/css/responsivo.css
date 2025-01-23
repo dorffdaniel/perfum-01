@@ -1,0 +1,135 @@
+
+@media (min-width: 320px) and (max-width: 425px){
+    main{
+        background: #141313;
+    }
+
+    .conteudo{
+        width: auto;
+        margin: 0 2em;
+    }
+
+    .perfum .imgprincipal{
+        width: 9em;
+        object-fit: cover;
+    }
+
+    .sobre{
+        width: 11em;
+        padding-left: 10px;
+    }
+
+    .sobre h1{
+        font-size: calc(1vw + 1em);
+    }
+    .sobre h2{
+        font-size: calc(1vw + 1em);
+        width: 8em;
+    }
+    
+    .sobre p{
+        font-size: calc(1vw + 0.7em);
+        width: 10em;
+    }
+
+    .preço .novo-valor{
+        font-size: calc(1vw + 1em);
+    }
+
+    .btn{
+        width: 6em;
+        font-size: calc(1vw + 0.8em);
+    }
+
+    .btn:hover{
+        width: 6em;
+        font-size: calc(1vw + 0.9em);
+    }
+}
+
+@media (min-width: 426px) and (max-width: 590px) {
+    .conteudo{
+        width: auto;
+        margin: 0 2em;
+    }
+
+    .perfum .imgprincipal{
+        width: 12em;
+        object-fit: cover;
+    }
+
+    .sobre{
+        width: 13em;
+        padding-left: 10px;
+    }
+
+    .sobre h1{
+        font-size: calc(1vw + 1em);
+    }
+    .sobre h2{
+        font-size: calc(1vw + 1em);
+        width: 8em;
+    }
+    
+    .sobre p{
+        font-size: calc(1vw + 0.8em);
+        width: 10em;
+    }
+
+    .preço .novo-valor{
+        font-size: calc(1vw + 1em);
+    }
+
+    .btn{
+        width: 6em;
+        font-size: calc(1vw + 0.8em);
+    }
+
+    .btn:hover{
+        width: 6em;
+        font-size: calc(1vw + 0.9em);
+    }
+}
+
+@media (min-width: 591px) and (max-width:715px){
+    .conteudo{
+        width: auto;
+    }
+
+    .perfum .imgprincipal{
+        width: 17em;
+        object-fit: cover;
+    }
+
+    .sobre{
+        width: 17em;
+        padding-left: 10px;
+    }
+
+    .sobre h1{
+        font-size: calc(1vw + 1em);
+    }
+    .sobre h2{
+        font-size: calc(1vw + 1em);
+        width: 8em;
+    }
+    
+    .sobre p{
+        font-size: calc(1vw + 0.9em);
+        width: 10em;
+    }
+
+    .preço .novo-valor{
+        font-size: calc(1vw + 1em);
+    }
+
+    .btn{
+        width: 6em;
+        font-size: calc(1vw + 0.9em);
+    }
+
+    .btn:hover{
+        width: 6em;
+        font-size: calc(1vw + 1em);
+    }
+}
