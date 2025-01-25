@@ -6,3 +6,6 @@ Este repositório apresenta uma interface de um card para o perfume Gabrielle Es
 - HTML
 - CSS
 - JS
+
+## Contato
+[linkedin](https://www.linkedin.com/in/daniel-alves-9872392a7/)
